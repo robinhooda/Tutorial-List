@@ -1,6 +1,7 @@
 # Preview
 
 ![Layout](https://github.com/robinhooda/Angular-NgRx-Store-Example/blob/master/Screen-preview.png)
+----------------------------------------------------------------------------------------------------------------------------
 
 # NgrxStore
 
