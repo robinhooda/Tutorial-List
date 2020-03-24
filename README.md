@@ -1,4 +1,16 @@
-# Preview
+# Angular-NgRx-Store-Example
+
+Hey Geeks! This project is based on angular using NgRx Store. 
+Ngrx Store is an RxJS powered state management solution for Angular apps.
+
+For more information and tutorial on Angular NgRx Store, 
+[click here !](https://coursetro.com/posts/code/151/Angular-Ngrx-Store-Tutorial---Learn-Angular-State-Management)
+
+# Author
+ 
+ Robin hooda
+
+# Screen
 
 ![Layout](https://github.com/robinhooda/Angular-NgRx-Store-Example/blob/master/Screen-preview.png)
 ----------------------------------------------------------------------------------------------------------------------------
