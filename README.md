@@ -1,6 +1,6 @@
 # Angular-NgRx-Store-Example
 
-Hey Geeks! This project is based on angular using NgRx Store. 
+Hey Geeks! This project is based on angular using NgRx Store for adding and removing a particular tutorial along with its link in the tutorial list.
 Ngrx Store is an RxJS powered state management solution for Angular apps.
 
 For more information and tutorial on Angular NgRx Store, 
